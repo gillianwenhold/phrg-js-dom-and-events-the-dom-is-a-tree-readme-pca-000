@@ -193,3 +193,4 @@ Obviously, this way of accessing that text isn't fully generic, but it does a go
 - [MDN - Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/the-dom-is-a-tree'>The DOM is a Tree</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG The DOM Is a Tree</p>
