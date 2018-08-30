@@ -188,6 +188,9 @@ p.textContent = "Goodbye!"
 
 Obviously, this way of accessing that text isn't fully generic, but it does a good job of demonstrating the basic tools available to us for finding and manipulating HTML elements.
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-dom-and-events-the-dom-is-a-tree-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-js-dom-and-events-the-dom-is-a-tree-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 ## Resources
 
 - [MDN - Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
